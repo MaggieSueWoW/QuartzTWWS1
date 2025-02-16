@@ -68,7 +68,7 @@ TODO: toss all the code into github and link it here.
 # About this site and the plots
 
 I was never a web or user interface developer. I made these plots largely with the help of ChatGPT. The plots and this 
-entire site is a bit janky, but I'm not currently inclined to put more effort into polishing it. 
+entire site are a bit janky, but I'm not currently inclined to put more effort into polishing it. 
 
 If anyone has some experience in these areas, I'd be happy to have you help!
 
