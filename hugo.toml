@@ -1,0 +1,17 @@
+baseURL = "https://MaggieSueWoW.github.io/Quartz_TWW_S1/"
+languageCode = "en-us"
+title = ''
+theme = "ananke"
+copyright = "MaggieSueWoW"
+
+publishDir = "docs"
+
+[params]
+  author = "MaggieSueWoW"
+  description = "Charts for the WoW team 'Quartz' during 'The War Within' (TWW) - Season 1"
+  enableDarkMode = true
+  custom_css = ["custom.css"]
+  body_classes = "sans-serif bg-dark-gray"
+  text_color = "near-white"
+  omit_header_text = false
+
