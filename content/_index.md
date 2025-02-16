@@ -5,7 +5,8 @@ description: "Fun numbers from a fine season"
 
 # Item Level, M+ Score, and Total M+ Completed by Day
 
-Bubbles are colored by class and represent the number of M+ completed.
+Bubbles are colored by class and represent the number of M+ 
+completed.
 
 {{< chart "S1_ilvl_m+score_m+done.html" >}}
 
