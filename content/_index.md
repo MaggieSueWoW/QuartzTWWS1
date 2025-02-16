@@ -8,6 +8,8 @@ description: "Fun numbers from a fine season"
 Bubbles are colored by class and represent the number of M+ 
 completed.
 
+*Hover bubbles for more info, grab the slider to move around manually.*
+
 {{< chart "S1_ilvl_m+score_m+done.html" >}}
 
 # Item Level Race by Day
