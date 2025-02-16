@@ -1,0 +1,20 @@
+<footer class="{{ .Site.Params.background_color_class | default " bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<div class="flex justify-center">
+    <span class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3">
+    <p xmlns:cc="http://creativecommons.org/ns#"><a rel="cc:attributionURL"
+                                                    href="https://maggiesuewow.github.io/QuartzTWWS1/">This work</a>
+         &copy;{{ now.Format "2006"}} by <a
+                rel="cc:attributionURL dct:creator" property="cc:attributionName"
+                href="https://github.com/MaggieSueWoW">{{ with .Site.Copyright | default .Site.Title }}{{ . | safeHTML }}{{ end }}</a>
+        is licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+           rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+    </span>
+</div>
+</footer>

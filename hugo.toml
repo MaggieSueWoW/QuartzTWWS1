@@ -2,7 +2,7 @@ baseURL = "https://MaggieSueWoW.github.io/QuartzTWWS1/"
 languageCode = "en-us"
 title = ''
 theme = "ananke"
-copyright = "MaggieSueWoW"
+copyright = "MaggieSue"
 
 publishDir = "docs"
 
